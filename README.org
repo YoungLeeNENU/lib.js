@@ -1,6 +1,6 @@
 * js 模块库
 ** 事件处理
-- event.js
+- event.js 参考 backbone.js 的事件处理
 - 使用
   #+BEGIN_EXAMPLE javascript
   mEvents = window.winEvents.events();
