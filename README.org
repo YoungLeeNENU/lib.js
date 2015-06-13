@@ -3,7 +3,7 @@
 - event.js
 - 使用
   #+BEGIN_EXAMPLE javascript
-  mEvents = window.TMVipEvents.events();
+  mEvents = window.winEvents.events();
 
   mEvents.extends(mModel);
   mEvents.extends(mView);
